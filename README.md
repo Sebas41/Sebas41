@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at **ICESI university**
 
-- 🌱 I’m currently learning **Java , React**
+- 🌱 I’m currently learning **MLops**
 
 - 📫 How to reach me **sebastianerazo266@gmail.com**
 
